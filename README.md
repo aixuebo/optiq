@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/julianhyde/optiq.png)](https://travis-ci.org/julianhyde/optiq)
 
-optiq
+optiq  calcite的老版本optiq
 =====
 
 Optiq is a dynamic data management framework.
